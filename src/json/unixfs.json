@@ -1,0 +1,26 @@
+{
+    "root" : 
+    {
+         "/bin" : [
+             "cat","chmod","chown"
+         ],
+         "/boot" : [
+             "kernel","vmlinuz","initrd"
+         ],
+         "/etc" : [
+             "hosts","services","fstab",{"/opt":null}
+         ],
+         "/usr" : [
+             {"/local" : [
+                 {"/bin" : null}, {"/lib" : null}
+                ]},
+             {"/share" : [
+                 {"/man": null}
+                ]},
+             {"/bin" : null}
+         ],
+         "/sbin":[
+             "fastboot","fasthalt","mkfs"
+         ]
+    }   
+}

@@ -1,0 +1,26 @@
+{
+    "channels": {
+        "UCrUL8K81R4VBzm-KOYwrcxQ":{
+            "name":"Engineer Man",
+            "subscribers":308000,
+            "verified":true
+        },
+        "UC4hfA78X-lqiRERBZLTnLBw":{
+            "name":"Aphex Twin",
+            "subscribers":108000,
+            "verified":false
+        },
+        "UCe3Ecgi9Gm3LsF5tcdAAeOA":{
+            "name":"KhatiaBuniatishVEVO",
+            "subscribers":19900,
+            "verified":true
+        }
+    },
+    "users":{
+        "eaterbc":{
+            "name":"Ben Eater",
+            "subscribers":480000,
+            "verified":true
+        }        
+    }
+}
